@@ -1,4 +1,4 @@
-# ISA 401 Job Scout Chat
+# ISA 401 Airbnb Chat
 
 **Ask a question in plain English, get the SQL and a table back**
 
@@ -13,9 +13,11 @@ A twelve-line [querychat](https://github.com/posit-dev/querychat) app built in I
 The app connects to a SQLite database (`data/scout.db`), hands the `scout_postings` table to querychat, and lets an LLM translate your question into SQL. Every answer shows the query it ran, so you can check the logic and reuse the SQL yourself.
 
 **Example queries:**
-- "How many of the postings are remote?"
-- "Which ten companies have the most postings?"
-- "Show the internship postings in Ohio."
+-  "Which city has the highest median nightly price for entire homes/apartments? (see Example 1a and 1c in midwest_airbnb_chat)
+
+- "Do Superhosts have a higher median nightly price than non-Superhosts? Show the results by city (see Example 2a in midwest_airbnb_chat).
+
+- "What are the 10 most common property types in the dataset? Show the results as a bar chart. (see Example 3a in midwest_airbnb_chat")
 
 ---
 
