@@ -14,10 +14,23 @@ The app connects to a SQLite database (`data/scout.db`), hands the `scout_postin
 
 **Example queries:**
 -  "Which city has the highest median nightly price for entire homes/apartments? (see Example 1a and 1c in midwest_airbnb_chat)
+   <img width="1893" height="832" alt="Example1a" src="https://github.com/user-attachments/assets/177a7222-63dd-4a12-b3e2-6062e392a00c" />
+  <img width="392" height="662" alt="Example 1c (1)" src="https://github.com/user-attachments/assets/dfdcd8a5-77bb-46a1-b324-1d6010a348fd" />
+  <img width="303" height="512" alt="Example 1c (2)" src="https://github.com/user-attachments/assets/566b8dba-429d-48ff-87ea-5662e3be4cd8" />
+
 
 - "Do Superhosts have a higher median nightly price than non-Superhosts? Show the results by city (see Example 2a in midwest_airbnb_chat).
+<img width="436" height="475" alt="Example 2a (1)" src="https://github.com/user-attachments/assets/2771479f-129c-43ae-b2ac-32ad4ac4f28f" />
+<img width="337" height="552" alt="Example 2a (2)" src="https://github.com/user-attachments/assets/65d5742e-7ae4-413c-8d74-9ed107ebec25" />
+<img width="295" height="327" alt="Example 2a (3)" src="https://github.com/user-attachments/assets/6a135f70-40e4-49de-a2f1-68a444e2cd43" />
+<img width="286" height="347" alt="Example 2a (4)" src="https://github.com/user-attachments/assets/633fdd34-c8bc-4f9d-8b62-53a51017eb92" />
+
 
 - "What are the 10 most common property types in the dataset? Show the results as a bar chart. (see Example 3a in midwest_airbnb_chat")
+  <img width="792" height="173" alt="Example 3a (1)" src="https://github.com/user-attachments/assets/5a9415d7-8d9a-4a6b-a77f-9987837640bc" />
+  <img width="1852" height="928" alt="Example 3a (2)" src="https://github.com/user-attachments/assets/c9a67ce1-a9cc-4e12-a1bd-72560d776bde" />
+
+
 
 ---
 
